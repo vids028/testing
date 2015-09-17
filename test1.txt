@@ -1,0 +1,14 @@
+able\n
+unable\n
+dorsal\n
+ventral\n
+acroscopic\n
+basiscopic\n
+abducting\n
+adductive\n
+nascent\n
+emerging\n
+dissilient\n
+parturient\n
+dying\n
+moribund\n
